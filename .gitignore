@@ -1,3 +1,4 @@
 **/.DS_store
 pycorrector-master/pycorrector/data/RNA/train
 pycorrector-master/seq2seq/data/*
+data/*
